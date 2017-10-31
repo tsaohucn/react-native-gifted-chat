@@ -29,7 +29,7 @@ export default class Send extends React.Component {
           </View>
         </TouchableOpacity>
       );
-/*
+    /*
     if (this.props.text.trim().length > 0) {
       return (
         <TouchableOpacity
@@ -46,8 +46,9 @@ export default class Send extends React.Component {
       );
     }
     return <View/>;
+    */
   }
-*/
+
 }
 
 const styles = StyleSheet.create({
