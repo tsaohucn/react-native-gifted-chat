@@ -39,7 +39,7 @@ const styles = {
       ...containerStyle,
     },
     text: {
-      color: '#aaa',
+      color: '#000000', //#aaa
       ...textStyle,
     },
   }),
@@ -48,7 +48,7 @@ const styles = {
       ...containerStyle,
     },
     text: {
-      color: '#fff',
+      color: '#000000',
       ...textStyle,
     },
   }),
