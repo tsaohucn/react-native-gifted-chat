@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
       ios: 5,
       android: 3,
     }),
-    padding: 0
+    //padding: 0
   },
 });
 
